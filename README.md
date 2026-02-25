@@ -1,2 +1,2 @@
 # booksky
-A simple web application where we can simply add our favorite book name with author name and description.
+A simple web application where we can simply add our favorite book name with author name and description. Build by HTML, CSS, JavaScript.
